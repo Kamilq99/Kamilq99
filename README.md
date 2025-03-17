@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamil/h1>
+<h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">IT Administrator for 1 year experience</h3>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Kamilq99)
