@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">IT Administrator with 1 year of experience</h3>
 
-- 👨‍💻 All my projects are available on [GitHub](https://github.com/Kamilq99)
+<p align="center">👨‍💻 All my projects are available on <a href="https://github.com/Kamilq99">GitHub</a></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
 
-- 🔭 I’m currently working on **automating IT tasks and improving infrastructure**
-- 🌱 I’m learning **DevOps tools and Python scripting**
-- 👯 I’m looking to collaborate on **open-source projects related to IT automation**
-- 💬 Ask me about **Linux, networking, and IT administration**
+<ul style="text-align: center; list-style-position: inside;">
+  <li>🔭 I’m currently working on <strong>automating IT tasks and improving infrastructure</strong></li>
+  <li>🌱 I’m learning <strong>DevOps tools and Python scripting</strong></li>
+  <li>👯 I’m looking to collaborate on <strong>open-source projects related to IT automation</strong></li>
+  <li>💬 Ask me about <strong>Linux, networking, and IT administration</strong></li>
+</ul>
 
 ### ⚙️ GitHub Stats
 
