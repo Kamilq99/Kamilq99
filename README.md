@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">IT Administrator with 1 year of experience</h3>
+<h3 align="center">IT Administrator with 2 year of experience</h3>
 
 <p align="center">👨‍💻 All my projects are available on <a href="https://github.com/Kamilq99">GitHub</a></p>
 
